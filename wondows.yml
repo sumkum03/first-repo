@@ -1,5 +1,0 @@
-- hosts: A75581.arm.com
-  gather_facts: yes
-
-  tasks:
-    - debug: var=ansible_hostname
